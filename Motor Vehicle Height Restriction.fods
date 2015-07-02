@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><dc:date>2015-07-01T23:18:38.994983000</dc:date><meta:editing-duration>PT1M29S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:generator>LibreOffice/4.4.3.2$MacOSX_X86_64 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="164" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">23600</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">29239</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Sheet1">
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">11</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1032</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">4gD+/0hQIENvbG9yIExhc2VySmV0IENQNDUyMCBTZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASFAgQ29sb3IgTGFzZXJKZXQgQ1A0MDIwLUNQNDUyMAAWAAQABAAAAAAAAAAIAFZUAAAkbQAAAQAAABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HP Color LaserJet CP4520 Series</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Arial" svg:font-family="Arial"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="36pt"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="en" fo:country="US" style:font-name-asian="Tahoma" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:percentage-style style:name="N10">
+   <number:number number:decimal-places="0" number:min-integer-digits="1"/>
+   <number:text>%</number:text>
+  </number:percentage-style>
+  <number:currency-style style:name="N104P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N104">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
+  </number:currency-style>
+  <number:currency-style style:name="N124P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:text> </number:text>
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N124P1" style:volatile="true">
+   <number:currency-symbol/>
+   <number:text> (</number:text>
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N124P2" style:volatile="true">
+   <number:currency-symbol/>
+   <number:text>- </number:text>
+  </number:currency-style>
+  <number:text-style style:name="N124">
+   <number:text-content/>
+   <number:text> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N124P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N124P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N124P2"/>
+  </number:text-style>
+  <number:number-style style:name="N128P0" style:volatile="true">
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N128P1" style:volatile="true">
+   <number:text>  (</number:text>
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+  </number:number-style>
+  <number:number-style style:name="N128P2" style:volatile="true">
+   <number:text> - </number:text>
+  </number:number-style>
+  <number:text-style style:name="N128">
+   <number:text-content/>
+   <number:text> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N128P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N128P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N128P2"/>
+  </number:text-style>
+  <number:currency-style style:name="N131P0" style:volatile="true">
+   <number:currency-symbol/>
+   <number:text> </number:text>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N131P1" style:volatile="true">
+   <number:currency-symbol/>
+   <number:text> (</number:text>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+  </number:currency-style>
+  <number:currency-style style:name="N131P2" style:volatile="true">
+   <number:currency-symbol/>
+   <number:text>- </number:text>
+  </number:currency-style>
+  <number:text-style style:name="N131">
+   <number:text-content/>
+   <number:text> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N131P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N131P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N131P2"/>
+  </number:text-style>
+  <number:number-style style:name="N134P0" style:volatile="true">
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N134P1" style:volatile="true">
+   <number:text>  (</number:text>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+  </number:number-style>
+  <number:number-style style:name="N134P2" style:volatile="true">
+   <number:text> - </number:text>
+  </number:number-style>
+  <number:text-style style:name="N134">
+   <number:text-content/>
+   <number:text> </number:text>
+   <style:map style:condition="value()&gt;0" style:apply-style-name="N134P0"/>
+   <style:map style:condition="value()&lt;0" style:apply-style-name="N134P1"/>
+   <style:map style:condition="value()=0" style:apply-style-name="N134P2"/>
+  </number:text-style>
+  <style:style style:name="Default" style:family="table-cell" style:data-style-name="N0">
+   <style:table-cell-properties style:cell-protect="protected" style:print-content="true" fo:background-color="transparent" style:vertical-align="bottom"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-family-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N104"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+  <style:style style:name="Percent" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10"/>
+  <style:style style:name="Currency" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N134"/>
+  <style:style style:name="Currency_20__5b_0_5d_" style:display-name="Currency [0]" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N128"/>
+  <style:style style:name="Comma" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N131"/>
+  <style:style style:name="Comma_20__5b_0_5d_" style:display-name="Comma [0]" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N124"/>
+  <draw:marker draw:name="Arrowheads_20_1" draw:display-name="Arrowheads 1" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="104.26pt"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="74.24pt"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="54.74pt"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="135.01pt"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="114.01pt"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="27.01pt"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="159.76pt"/>
+  </style:style>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="54pt"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="75.74pt"/>
+  </style:style>
+  <style:style style:name="co10" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="64.01pt"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="12.81pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="15.76pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="PageStyle_5f_Sheet1">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <number:number-style style:name="N3">
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+  </number:number-style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="bottom"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties fo:color="#0000ff" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N3">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties fo:color="#0000ff" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="bottom"/>
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="8pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="8pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N3">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="bottom"/>
+   <style:text-properties fo:color="#1155cc" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="bottom"/>
+   <style:text-properties fo:color="#0000ff" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties fo:color="#0000ff" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N3">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties fo:color="#0000ff" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="bottom"/>
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="8pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="8pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N3">
+   <style:table-cell-properties style:vertical-align="top"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="bottom"/>
+   <style:text-properties fo:color="#1155cc" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="bottom"/>
+   <style:text-properties fo:color="#0000ff" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="bottom"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties draw:marker-start="Arrowheads_20_1" draw:marker-start-width="5.67pt" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="49.83pt" fo:padding-top="2.83pt" fo:padding-bottom="2.83pt" fo:padding-left="2.83pt" fo:padding-right="2.83pt" draw:shadow="hidden" draw:shadow-offset-x="2.83pt" draw:shadow-offset-y="2.83pt" draw:caption-escape-direction="auto"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm3">
+   <style:page-layout-properties fo:page-width="595.45pt" fo:page-height="841.69pt" style:num-format="1" style:print-orientation="portrait" fo:margin-top="36pt" fo:margin-bottom="36pt" fo:margin-left="54pt" fo:margin-right="54pt" style:print-page-order="ttb" style:first-page-number="continue" style:scale-to="100%" style:print="zero-values"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="36pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="0pt"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="36pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="0pt"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="P2" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffc0"/>
+   <style:paragraph-properties style:text-autospace="none" style:line-break="normal" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Arial" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph">
+   <style:paragraph-properties style:text-autospace="none" style:line-break="normal" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Arial" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Arial" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2015-07-01">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="23:34:22.151065000">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="PageStyle_5f_Sheet1" style:display-name="PageStyle_Sheet1" style:page-layout-name="pm3">
+   <style:header style:display="false"/>
+   <style:header-left style:display="false"/>
+   <style:footer style:display="false"/>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:table table:name="Sheet1" table:style-name="ta1" table:print="false">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce13"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce13"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce13"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="ce13"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce13"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce13"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="ce13"/>
+    <table:table-column table:style-name="co9" table:number-columns-repeated="247" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>State</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>Max Height (ft)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>Notes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>Source</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>Quote</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>pg #</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>Conflicts/Comments</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Alabama</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>13 1/2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.dot.state.al.us/maweb/doc/Title32Chapter9.pdf" xlink:type="simple">https://www.dot.state.al.us/maweb/doc/Title32Chapter9.pdf</text:a></text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>&quot;No vehicle or semi-trailer or trailer shall exceed in height13 ½ feet, including load.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="250"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Alaska</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" xlink:type="simple">http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:a></text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:formula="of:=HYPERLINK(&quot;http://dnr.alaska.gov/ag/Index/Chapter25.pdf&quot;;&quot;PAGE 5: &quot;&quot;A vehicle, including load, may not exceed a height of 15feet, except that avehicle operating between the Fox Weigh Station and Prudhoe Bay on the Daltonand Elliott Highways may have a height, including load, of 17 feet. &quot;&quot; &quot;)" office:value-type="string" office:string-value="PAGE 5: &quot;A vehicle, including load, may not exceed a height of 15feet, except that avehicle operating between the Fox Weigh Station and Prudhoe Bay on the Daltonand Elliott Highways may have a height, including load, of 17 feet. &quot; " calcext:value-type="string">
+      <text:p>PAGE 5: &quot;A vehicle, including load, may not exceed a height of 15feet, except that avehicle operating between the Fox Weigh Station and Prudhoe Bay on the Daltonand Elliott Highways may have a height, including load, of 17 feet. &quot; </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Arizona</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Arkansas</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>13&apos;6</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="http://www.sos.arkansas.gov/rulesRegs/Arkansas%20Register/2014/nov2014/001.00.14-001.pdf" xlink:type="simple">http://www.sos.arkansas.gov/rulesRegs/Arkansas%20Register/2014/nov2014/001.00.14-001.pdf</text:a></text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>&quot;HEIGHT: 13 feet, 6 inches</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" table:formula="of:=HYPERLINK(&quot;http://www.sos.arkansas.gov/rulesRegs/Arkansas%20Register/2014/nov2014/001.00.14-001.pdf&quot;;&quot;PAGE 8: &quot;&quot;WIDTH: 8 feet, 6 inches (8 feet for manufactured homes)&quot;&quot;&quot;)" office:value-type="string" office:string-value="PAGE 8: &quot;WIDTH: 8 feet, 6 inches (8 feet for manufactured homes)&quot;" calcext:value-type="string">
+      <text:p>PAGE 8: &quot;WIDTH: 8 feet, 6 inches (8 feet for manufactured homes)&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>California</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="250"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Colorado</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Connecticut</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>13&apos;6</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="http://www.ct.gov/dot/lib/dot/Documents/dpermits/eh_ndlgi.pdf" xlink:type="simple">http://www.ct.gov/dot/lib/dot/Documents/dpermits/eh_ndlgi.pdf</text:a></text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>&quot;Height - 13 feet 6 inches &quot;</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20" table:formula="of:=HYPERLINK(&quot;http://delcode.delaware.gov/title21/c045/index.shtml&quot;;&quot;&quot;&quot;The liability for damage to any person, vehicle, structure or other property caused by any vehicle having a height, including any load thereon, in excess of 12 feet 6 inches shall be borne by the owner and/or the operator of the vehicle.&quot;&quot;&quot;)" office:value-type="string" office:string-value="&quot;The liability for damage to any person, vehicle, structure or other property caused by any vehicle having a height, including any load thereon, in excess of 12 feet 6 inches shall be borne by the owner and/or the operator of the vehicle.&quot;" calcext:value-type="string">
+      <text:p>&quot;The liability for damage to any person, vehicle, structure or other property caused by any vehicle having a height, including any load thereon, in excess of 12 feet 6 inches shall be borne by the owner and/or the operator of the vehicle.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Delaware</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>District of Columbia</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Florida</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:number-columns-repeated="252"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Georgia</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Hawaii</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="250"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Idaho</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Illinois</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Indiana</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Iowa</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kansas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kentucky</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Louisiana</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Maine</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Maryland</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Massachusetts</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="252"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Michigan</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="252"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Minnesota</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mississippi</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:number-columns-repeated="252"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Missouri</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Montana</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nebraska</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nevada</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>New Hampshire</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>New Jersey</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>New Mexico</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="250"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>New York</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="252"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>North Carolina</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>North Dakota</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ohio</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Oklahoma</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Oregon</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pennsylvania</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Puerto Rico</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rhode Island</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>South Carolina</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>South Dakota</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tennessee</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Texas</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="250"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Utah</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18"/>
+     <table:table-cell table:number-columns-repeated="249"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Vermont</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Virginia</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Washington</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D3]" office:value-type="string" office:string-value="http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf" calcext:value-type="string">
+      <text:p>http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="250"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>West Virginia</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Wisconsin</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="255"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Wyoming</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$B$3]" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$C$3]" office:value-type="string" office:string-value="WASHTO" calcext:value-type="string">
+      <text:p>WASHTO</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.$D$3]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$E$3]" office:value-type="string" office:string-value="&quot;Height :Maximum vehicle height: 14 feet.&quot;" calcext:value-type="string">
+      <text:p>&quot;Height :Maximum vehicle height: 14 feet.&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.$F$3]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="247"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
