@@ -1,53 +1,53 @@
-State             Max Height (fNotes    Source                  Quote               pg #Conflicts/Comments                        
-Alabama           13 1/2                https://www.dot.state.alNo vehicle or semi-t   3
-Alaska            14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15PAGE 5: A vehicle, including load, may not
-Arizona           14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Arkansas          13 feet 6 inc         http://www.sos.arkansas.HEIGHT: 13 feet(comm   8PAGE 8: WIDTH: 8 feet (comma)  6 inches (8
-California        14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Colorado          14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Connecticut       13 feet 6 inc         http://www.ct.gov/dot/liHeight - 13 feet 6 i   4The liability for damage to any person(com
-Delaware                                                                                
-District of Columb                                                                      
-Florida                                                                                 
-Georgia                                                                                 
-Hawaii            14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Idaho             14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Illinois                                                                                
-Indiana                                                                                 
-Iowa                                                                                    
-Kansas                                                                                  
-Kentucky                                                                                
-Louisiana                                                                               
-Maine                                                                                   
-Maryland                                                                                
-Massachusetts                                                                           
-Michigan                                                                                
-Minnesota                                                                               
-Mississippi                                                                             
-Missouri                                                                                
-Montana           14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Nebraska          14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Nevada            14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-New Hampshire                                                                           
-New Jersey                                                                              
-New Mexico        14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-New York                                                                                
-North Carolina                                                                          
-North Dakota      14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Ohio                                                                                    
-Oklahoma          14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Oregon            14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Pennsylvania                                                                            
-Puerto Rico                                                                             
-Rhode Island                                                                            
-South Carolina                                                                          
-South Dakota      14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Tennessee                                                                               
-Texas             14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Utah              14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-Vermont                                                                                 
-Virginia                                                                                
-Washington        14           WASHTO   http://www.wsdot.wa.gov/Height :Maximum vehi  15
-West Virginia                                                                           
-Wisconsin                                                                               
-Wyoming           14           WASHTO                          0Height :Maximum vehi  15
+State,Max Height (ft),Notes,Source,Quote,pg #,Conflicts/Comments
+Alabama,13 1/2,,https://www.dot.state.al.us/maweb/doc/Title32Chapter9.pdf,No vehicle or semi-trailer or trailer shall exceed in height 13 ½ feet (comma) including load.,3,
+Alaska,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,"PAGE 5: A vehicle, including load, may not exceed a height of 15feet, except that avehicle operating between the Fox Weigh Station and Prudhoe Bay on the Daltonand Elliott Highways may have a height, including load, of 17 feet. "
+Arizona,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Arkansas,13 feet 6 inches,,http://www.sos.arkansas.gov/rulesRegs/Arkansas%20Register/2014/nov2014/001.00.14-001.pdf,HEIGHT: 13 feet(comma) 6 inches,8,PAGE 8: WIDTH: 8 feet (comma)  6 inches (8 feet for manufactured homes)
+California,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Colorado,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Connecticut,13 feet 6 inches,,http://www.ct.gov/dot/lib/dot/Documents/dpermits/eh_ndlgi.pdf,Height - 13 feet 6 inches ,4,The liability for damage to any person(comma) vehicle(comma) structure or other property caused by any vehicle having a height(comma) including any load thereon(comma) in excess of 12 feet 6 inches shall be borne by the owner and/or the operator of the vehicle.
+Delaware,,,,,,
+District of Columbia,,,,,,
+Florida,,,,,,
+Georgia,,,,,,
+Hawaii,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Idaho,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Illinois,,,,,,
+Indiana,,,,,,
+Iowa,,,,,,
+Kansas,,,,,,
+Kentucky,,,,,,
+Louisiana,,,,,,
+Maine,,,,,,
+Maryland,,,,,,
+Massachusetts,,,,,,
+Michigan,,,,,,
+Minnesota,,,,,,
+Mississippi,,,,,,
+Missouri,,,,,,
+Montana,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Nebraska,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Nevada,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+New Hampshire,,,,,,
+New Jersey,,,,,,
+New Mexico,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+New York,,,,,,
+North Carolina,,,,,,
+North Dakota,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Ohio,,,,,,
+Oklahoma,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Oregon,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Pennsylvania,,,,,,
+Puerto Rico,,,,,,
+Rhode Island,,,,,,
+South Carolina,,,,,,
+South Dakota,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Tennessee,,,,,,
+Texas,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Utah,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+Vermont,,,,,,
+Virginia,,,,,,
+Washington,14,WASHTO,http://www.wsdot.wa.gov/NR/rdonlyres/EF9BD746-33DC-4A7F-A7FA-744897188D64/0/WASHTOGuide2009.pdf,Height :Maximum vehicle height: 14 feet.,15,
+West Virginia,,,,,,
+Wisconsin,,,,,,
+Wyoming,14,WASHTO,0,Height :Maximum vehicle height: 14 feet.,15,
